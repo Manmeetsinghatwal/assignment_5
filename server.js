@@ -6,7 +6,7 @@
 * 
 *  Name: Manmeet Singh Atwal    Student ID: 122872229   Date: Nov 20, 2023
 *
-*  Online (Cyclic) URL: https://champagne-meerkat-wrap.cyclic.app/blog
+*  Online (Cyclic) URL: https://elegant-life-jacket-cow.cyclic.app
 *
 ********************************************************************************/ 
 
